@@ -1,1 +1,8 @@
 /* file for your css */
+.left-button{
+  float:left;
+}
+
+.right-button{
+  float:right;
+}
